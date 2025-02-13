@@ -9,11 +9,7 @@ This project aims to explore the Olympic shooting events from multiple angles, f
 The analysis is driven by four primary objectives:
 
 Research Question
-
-How many genders participate in the game across different disciplines.
-
-What is the maximum number of points an athlete can earn based on the discipline.
-
-How is global involvement represented in shooting competition.
-
-How is the global distribution of medals across different countries.
+1. How many genders participate in the game across different disciplines.
+2. What is the maximum number of points an athlete can earn based on the discipline.
+3. How is global involvement represented in shooting competition.
+4. How is the global distribution of medals across different countries.
